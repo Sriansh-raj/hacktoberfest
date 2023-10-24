@@ -1,3 +1,8 @@
+#### Name: [SRIANSH RAJ](https://github.com/Sriansh-raj)
+- Place: India
+- Bio: ML Apprentice
+- GitHub: [Sriansh Raj](https://github.com/Sriansh-raj)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
